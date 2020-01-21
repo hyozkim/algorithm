@@ -10,27 +10,28 @@ public class leet_19 {
 
     public static ListNode removeNthFromEnd(ListNode head, int n) {
         int size = 0;
-        ListNode temp = head;
+        ListNode temp = new ListNode(0);
+        temp.next = head;
+
+        ListNode first = head;
         do {
             // System.out.print(head.val +"(" + size +")"+ " -> ");
-            temp = temp.next;
+            first = first.next;
             size ++;
-        } while( temp != null) ;
+        } while( first != null) ;
 
-        System.out.println(size);
 
-        int i=0;
-        do {
-            System.out.print(head.val +"(" + i +")"+ " -> ");
-            if( i == size-n-1 ) {
-                head.next = head.next.next;
-            }
+        size -= n;
+        first = temp;
+        while( size > 0 ) {
+            size --;
+            first = first.next;
+        }
+        first.next = first.next.next;
 
-            head = head.next;
-
-        } while( head != null) ;
-
-        return head;
+        // return은 temp.next로
+        // Call By Reference
+        return temp.next;
     }
 
 
@@ -45,7 +46,6 @@ public class leet_19 {
 
         do {
             System.out.print(result.val +"(" + 0 +")"+ " -> ");
-
             result = result.next;
 
         } while( result != null) ;
