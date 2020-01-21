@@ -1,7 +1,7 @@
 package leetcode.medium;
 
 public class leet_2 {
-    static public class ListNode {
+    static class ListNode {
         int val;
         ListNode next;
         ListNode(int x) { val = x; }
