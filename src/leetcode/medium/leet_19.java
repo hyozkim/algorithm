@@ -20,8 +20,7 @@ public class leet_19 {
             size ++;
         } while( first != null) ;
 
-
-        size -= n;
+        size -= n;  // end 에서 2번째
         first = temp;
         while( size > 0 ) {
             size --;
@@ -33,7 +32,6 @@ public class leet_19 {
         // Call By Reference
         return temp.next;
     }
-
 
     public static void main(String[] args) {
         ListNode listNode = new ListNode(1);
