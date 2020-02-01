@@ -2,7 +2,7 @@ package programmers.level3;
 
 import java.util.*;
 
-// Graph
+// Graph - 가장 먼 노드
 // Programmers Lv.3
 public class FarthestNode {
     public static int solution(int n, int[][] edge) {

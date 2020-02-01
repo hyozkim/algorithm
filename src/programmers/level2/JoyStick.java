@@ -1,9 +1,6 @@
 package programmers.level2;
 
-
-import javax.crypto.spec.PSource;
-
-// Greedy
+// Greedy - 조이스틱
 // Programmers Lv.2
 public class JoyStick {
     public static int solution(String name) {
@@ -30,7 +27,6 @@ public class JoyStick {
             // 2. 좌우 조이스틱 move 최소
             int next = i + 1;
             while( next < n && nameToChar[next] == 'A' ) next ++;
-
 
             //System.out.println("i = " + i + ", next = " + next + ", n = " + n + ", rightMin = " + rightMin);
             //System.out.println(i+n-next + " " + Math.min(i, n-next));

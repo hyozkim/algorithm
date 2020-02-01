@@ -2,7 +2,7 @@ package programmers.level3;
 
 import java.util.*;
 
-// Greedy
+// Greedy - 단속카메라
 // Programmers Lv.3
 public class SpeedingCamera {
     static class Route {

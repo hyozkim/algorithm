@@ -2,7 +2,7 @@ package programmers.level2;
 
 import java.util.HashSet;
 
-// Brute Force
+// Brute Force - 소수 찾기
 // Programmers Lv.2
 public class FindPrimeNumber {
     public static boolean isPrime(int a) {

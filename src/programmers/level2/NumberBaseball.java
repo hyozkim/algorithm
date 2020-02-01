@@ -1,5 +1,7 @@
 package programmers.level2;
 
+// Brute Force - 숫자 야구
+// Programmers Lv.2
 public class NumberBaseball {
     public static int[] toThreeDigit(int i) {
         return new int[] {i/100, (i%100)/10, i%10};

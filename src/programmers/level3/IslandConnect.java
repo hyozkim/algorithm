@@ -2,7 +2,7 @@ package programmers.level3;
 
 import java.util.*;
 
-// Greedy
+// Greedy - 섬연결하기
 // Programmers Lv.3
 public class IslandConnect {
     public static int solution(int n, int[][] costs) {
