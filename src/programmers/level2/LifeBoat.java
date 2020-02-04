@@ -2,6 +2,8 @@ package programmers.level2;
 
 import java.util.Arrays;
 
+// Greedy - 구명보트
+// Programmers Lv.2
 public class LifeBoat {
     public static int solution(int[] people, int limit) {
         int n = people.length;
