@@ -4,6 +4,7 @@ import java.util.Stack;
 
 // Stack - 짝지어 제거하기
 // Programmers Lv.2
+// Greedy 문제 같기도 함(프로그래머스 '큰 수 만들기'와 유사)
 public class RemovePairString {
 
     public static int solution(String s)  {
@@ -19,28 +20,8 @@ public class RemovePairString {
         return st.isEmpty() ? 1 : 0;
     }
 
-    // 시간 초과
-    /*
-    public static int solution(String s) {
-        int cnt = 0;
-        while( !s.equals("") ) {
-            String s_temp = s;
-            for (int i = 0; i < s.length(); i++) {
-                System.out.println("[" + s + "]");
-                if (i + 1 < s.length() && s.charAt(i) == s.charAt(i + 1)) {
-                    s = s.substring(0, i) + s.substring(i + 2, s.length());
-                }
-                System.out.println("{" + s + "}");
-            }
-            if( s.equals(s_temp) ) cnt++;
-            if( cnt > 0 ) break;
-        }
-
-        return cnt == 0 ? 1 : 0;
-    }
-    */
     public static void main(String[] args) {
-        //String s = "baabaa";
+        String s = "baabaa";
         //String s = "cdcd";
         //String s = "aabba";
 
