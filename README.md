@@ -2,36 +2,36 @@
 ---
 ### Algo 3기
 - 2020-02-15
-    - [[3차] n진수게임](https://programmers.co.kr/learn/courses/30/lessons/17687) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/NminusGame.java)
-    - [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/LargeSquare.java)
-    - [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/PhoneKetMon.java)
-    - [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/RemovePairString.java)
+    - [[3차] n진수게임(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17687) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/NminusGame.java)
+    - [가장 큰 정사각형 찾기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12905) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/LargeSquare.java)
+    - [폰켓몬(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/1845) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/PhoneKetMon.java)
+    - [짝지어 제거하기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12973) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/RemovePairString.java)
     
 - 2020-02-22
-    - [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/Friends4Block.java)
-    - [[3차]방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/ThatSong.java)
-    - [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MatrixMultiplication.java)
-    - [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JadenCase.java)
+    - [프렌즈4블록(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17679) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/Friends4Block.java)
+    - [[3차]방금그곡(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17683) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/ThatSong.java)
+    - [행렬의 곱셈(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12949) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MatrixMultiplication.java)
+    - [JadenCase 문자열 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12951) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JadenCase.java)
 
 ### 프로그래머스
 - 그리디
-    - [프로그래머스(Lv 1) : 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/GymClothes.java)
-    - [프로그래머스(Lv 2) : 큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakeGreater.java)
-    - [프로그래머스(Lv 2) : 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/LifeBoat.java)
-    - [프로그래머스(Lv 3) : 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/SpeedingCamera.java)
-    - [프로그래머스(Lv 3) : 저울](https://programmers.co.kr/learn/courses/30/lessons/428860) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
+    - [체육복(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/42862) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/GymClothes.java)
+    - [큰 수 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42883) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakeGreater.java)
+    - [구명보트(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42885) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/LifeBoat.java)
+    - [단속카메라(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42884) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/SpeedingCamera.java)
+    - [저울(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/428860) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
 
 - 이분탐색
-    - [예산](https://programmers.co.kr/learn/courses/30/lessons/43237) 
-    - [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)
-    - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) 
+    - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) 
+    - [입국심사(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43238)
+    - [징검다리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/43236) 
     
     
 - 그래프
-    - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FarthestNode.java)
+    - [가장 먼 노드(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49189) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FarthestNode.java)
     
 - DP
-    - [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
+    - [정수 삼각형(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
     
 ### 백준 
 - DP1
