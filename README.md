@@ -13,13 +13,18 @@
     - [행렬의 곱셈(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12949) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MatrixMultiplication.java)
     - [JadenCase 문자열 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12951) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JadenCase.java)
 
+- 2020-02-29
+    - [네트워크(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43162) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Network.java)
+    - [가장 긴 팰린드롬(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12904) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Palindrome.java)
+    - [야근 지수(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12927) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/OvertimeWork.java)
+
 ### 프로그래머스
 - 그리디
     - [체육복(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/42862) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/GymClothes.java)
     - [큰 수 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42883) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakeGreater.java)
     - [구명보트(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42885) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/LifeBoat.java)
     - [단속카메라(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42884) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/SpeedingCamera.java)
-    - [저울(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/428860) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
+    - [저울(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42886) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
 
 - 이분탐색
     - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) 
@@ -35,16 +40,16 @@
     
 ### 백준 
 - DP1
-    - [1로 만들기](https://www.acmicpc.net/problem/1463)
-    - [2xn 타일링](https://www.acmicpc.net/problem/11726)
-    - [2xn 타일링2](https://www.acmicpc.net/problem/11727)
-    - [1+2+3 문제](https://www.acmicpc.net/problem/9095)
-    - [카드 구매하기](https://www.acmicpc.net/problem/11052)
+    - [1로 만들기](https://www.acmicpc.net/problem/1463) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q1463.java)
+    - [2xn 타일링](https://www.acmicpc.net/problem/11726) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q11726.java)
+    - [2xn 타일링2](https://www.acmicpc.net/problem/11727) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q11727.java)
+    - [1+2+3 문제](https://www.acmicpc.net/problem/9095) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q9095.java)
+    - [카드 구매하기](https://www.acmicpc.net/problem/11052) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q11052.java)
     
 - DP2
     - [이친수](https://www.acmicpc.net/problem/2193) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q2193.java)
-    - [쉬운 계단수](https://www.acmicpc.net/problem/10844)
-    - [오르막수](https://www.acmicpc.net/problem/11057)
+    - [쉬운 계단수](https://www.acmicpc.net/problem/10844) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q10844.java)
+    - [오르막수](https://www.acmicpc.net/problem/11057) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q11057.java)
     - [계단오르기](https://www.acmicpc.net/problem/2579) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q2579.java)
     - [스티커](https://www.acmicpc.net/problem/9465) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q9465.java)
     - [포도주 시식](https://www.acmicpc.net/problem/2156) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q2156.java)
