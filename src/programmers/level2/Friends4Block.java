@@ -2,6 +2,8 @@ package programmers.level2;
 
 import java.util.Arrays;
 
+// ? - 프렌즈4블럭
+// Programmers Lv.2
 public class Friends4Block {
     public static boolean  canRemove(char block, int i, int j, char[][] board) {
         return block != ' ' && block == board[i+1][j] && block == board[i][j+1] && block == board[i+1][j+1];
