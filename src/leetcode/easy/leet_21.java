@@ -1,9 +1,7 @@
 package leetcode.easy;
 
-import leetcode.medium.leet_19;
-
+// Merge Two Sorted Lists - Easy
 public class leet_21 {
-
     private static class ListNode {
         int val;
         ListNode next;
