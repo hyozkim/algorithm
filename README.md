@@ -12,12 +12,17 @@
     - [[3차]방금그곡(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17683) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/ThatSong.java)
     - [행렬의 곱셈(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12949) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MatrixMultiplication.java)
     - [JadenCase 문자열 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12951) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JadenCase.java)
-
+    
 - 2020-02-29
     - [네트워크(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43162) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Network.java)
     - [가장 긴 팰린드롬(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12904) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Palindrome.java)
     - [야근 지수(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12927) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/OvertimeWork.java)
 
+- 2020-03-07
+    - [디스크 컨트롤러(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42627) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/DiskController.java)
+    - [단어변환(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43163) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WordConvertion.java)
+    - [이중우선순위큐(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42628) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/PriorityQueue2.java)
+    
 ### 프로그래머스
 - 그리디
     - [체육복(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/42862) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/GymClothes.java)
