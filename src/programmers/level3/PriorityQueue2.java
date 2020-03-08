@@ -3,6 +3,8 @@ package programmers.level3;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+// Heap - 이중우선순위 큐
+// Programmers Lv.3
 public class PriorityQueue2 {
     public static void operate(String op, PriorityQueue<Integer> pqMax, PriorityQueue<Integer> pqMin) {
         String cmd = op.split(" ")[0];
