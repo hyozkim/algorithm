@@ -22,7 +22,12 @@
     - [디스크 컨트롤러(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42627) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/DiskController.java)
     - [단어변환(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43163) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WordConvertion.java)
     - [이중우선순위큐(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42628) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/PriorityQueue2.java)
-    
+
+- 2020-03-21
+    - [베스트 앨범(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42579) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BestAlbum.java)
+    - [타일 장식물(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43104) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/TileDecoration.java)
+    - [하노이탑(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12946) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/HanoiTop.java)
+ 
 ### 프로그래머스
 - 그리디
     - [체육복(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/42862) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/GymClothes.java)
@@ -43,7 +48,15 @@
 - DP
     - [정수 삼각형(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
     - [등굣길(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42898) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayToSchool.java)
-    
+ 
+- Heap
+    - [라면공장(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42629) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/NoodleFactory.java)
+    - [디스크 컨트롤러(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42627) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/DiskController.java)
+    - [이중우선순위큐(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42628) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/PriorityQueue2.java)
+
+- Hash
+    - [베스트 앨범(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42579) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BestAlbum.java)
+        
 ### 백준 
 - DP1
     - [1로 만들기](https://www.acmicpc.net/problem/1463) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q1463.java)
