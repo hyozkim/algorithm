@@ -6,3 +6,6 @@
 *.ipr
 out/
 src/test/
+src/exam/
+src/goorm/
+src/codility/

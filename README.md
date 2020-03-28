@@ -27,6 +27,12 @@
     - [베스트 앨범(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42579) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BestAlbum.java)
     - [타일 장식물(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43104) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/TileDecoration.java)
     - [하노이탑(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12946) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/HanoiTop.java)
+
+- 2020-03-28
+    - [브라이언의 고민(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/1830) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BriansWorry.java)
+    - [멀리뛰기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12914) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/LongJump.java)
+    - [순위(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49191) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Rank.java)
+ 
  
 ### 프로그래머스
 - 그리디
