@@ -29,9 +29,14 @@
     - [하노이탑(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12946) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/HanoiTop.java)
 
 - 2020-03-28
-    - [브라이언의 고민(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/1830) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BriansWorry.java)
+    - [브라이언의 고민(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/1830) - code
     - [멀리뛰기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12914) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/LongJump.java)
-    - [순위(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49191) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Rank.java)
+    - [순위(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49191) - code
+
+- 2020-04-04
+    - [등굣길(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42898) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayToSchool.java)
+    - [최고의 집합(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12938) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BestSet.java)
+    - [여행경로(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43164) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/TravelRoute.java)
  
  
 ### 프로그래머스
