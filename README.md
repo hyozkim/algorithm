@@ -14,7 +14,7 @@
 - [[3차]방금그곡(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17683) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/ThatSong.java)
 - [행렬의 곱셈(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12949) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MatrixMultiplication.java)
 - [JadenCase 문자열 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12951) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JadenCase.java)
-- [라면공장(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42629) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/NoodleFactory.java)
+
 
 ### Level 3
 - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Budget.java)
