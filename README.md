@@ -44,6 +44,9 @@
 - [단속카메라(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42884) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/SpeedingCamera.java)
 - [섬 연결하기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42861) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IslandConnect.java)
 - [배달(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12978) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Delivery.java)
+- [2xN타일링(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12900) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/eXnTiling.java)
+- [N으로 표현(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42895) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/representN.java)
+- [종이접기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/62049) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FoldingPaper.java)
 
 ### Level 4
 - [징검다리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/43236) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/SteppingStone.java)
