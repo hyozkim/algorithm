@@ -1,6 +1,7 @@
 ## 프로그래머스
 ### Level 1
 - [체육복(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/42862) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/GymClothes.java)
+- [크레인 인형뽑기 게임(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/64061) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/PickDoll.java)
 
 ### Level 2
 - [큰 수 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42883) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakeGreater.java)
@@ -21,7 +22,6 @@
 - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Budget.java)
 - [입국심사(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43238) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Immigration.java)
 - [저울(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42886) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
-- [가장 먼 노드(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49189) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FarthestNode.java)
 - [정수 삼각형(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
 - [등굣길(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42898) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayToSchool.java)
 - [디스크 컨트롤러(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42627) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/DiskController.java)
@@ -32,7 +32,6 @@
 - [야근 지수(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12927) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/OvertimeWork.java)
 - [디스크 컨트롤러(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42627) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/DiskController.java)
 - [단어변환(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43163) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WordConvertion.java)
-- [이중우선순위큐(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42628) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/PriorityQueue2.java)
 - [베스트 앨범(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42579) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BestAlbum.java)
 - [타일 장식물(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43104) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/TileDecoration.java)
 - [하노이탑(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12946) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/HanoiTop.java)
@@ -48,6 +47,9 @@
 - [2xN타일링(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12900) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/eXnTiling.java)
 - [N으로 표현(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42895) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/representN.java)
 - [종이접기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/62049) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FoldingPaper.java)
+- [추석트래픽(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12907) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/ThanksGivingDayTraffic.java)
+- [가장 먼 노드(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49189) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FarthestNode.java)
+- [거스름돈(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12907) - code
 
 ### Level 4
 - [징검다리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/43236) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/SteppingStone.java)
