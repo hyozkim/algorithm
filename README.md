@@ -17,6 +17,7 @@
 - [JadenCase 문자열 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12951) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JadenCase.java)
 - [땅따먹기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12913) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/TakeTerritory.java)
 - [올바른 괄호(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12909) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/CorrectBracket.java)
+- [튜플(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/64065) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/Tuple.java)
 
 ### Level 3
 - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Budget.java)
@@ -50,12 +51,12 @@
 - [추석트래픽(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12907) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/ThanksGivingDayTraffic.java)
 - [가장 먼 노드(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49189) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FarthestNode.java)
 - [거스름돈(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12907) - code
+- [불량 사용자(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/64064) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BadUser.java)
 
 ### Level 4
 - [징검다리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/43236) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/SteppingStone.java)
 - [선입선출 스케줄링(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/12920) - code
 
-   
 백준
 ---
 - DP1
