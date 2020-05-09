@@ -50,7 +50,7 @@
 - [종이접기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/62049) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FoldingPaper.java)
 - [추석트래픽(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/17676) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/ThanksGivingDayTraffic.java)
 - [가장 먼 노드(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49189) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FarthestNode.java)
-- [거스름돈(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12907) - code
+- [거스름돈(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12907) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Change.java)
 - [불량 사용자(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/64064) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BadUser.java)
 
 ### Level 4
