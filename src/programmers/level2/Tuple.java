@@ -1,7 +1,7 @@
 package programmers.level2;
 
 import java.util.*;
-class Solution {
+public class Tuple {
     private static ArrayList<ArrayList<Integer>> parseStr(String s) {
         char[] toChar = s.toCharArray();
 
