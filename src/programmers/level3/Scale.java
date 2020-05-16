@@ -6,14 +6,13 @@ import java.util.Arrays;
 // Programmers Lv.3
 public class Scale {
     public static int solution(int[] weight) {
-        int answer = 0;
         Arrays.sort(weight);
-        answer += weight[0];
 
-        for (int i = 1; i < weight.length; i++) {
-            System.out.println(i + " " + answer + " "  + weight[i]);
-            if( answer+1 < weight[i] ) break;
-            answer += weight[i];
+        int answer = 0;
+        for( int w : weight ) {
+            if( answer + 1 < w ) break;
+            answer += w;
+            //System.out.println(w);
         }
 
         return answer+1;

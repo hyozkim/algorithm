@@ -22,7 +22,6 @@
 ### Level 3
 - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Budget.java)
 - [입국심사(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43238) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Immigration.java)
-- [저울(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42886) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
 - [정수 삼각형(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
 - [등굣길(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42898) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayToSchool.java)
 - [디스크 컨트롤러(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42627) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/DiskController.java)
@@ -52,6 +51,8 @@
 - [가장 먼 노드(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49189) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/FarthestNode.java)
 - [거스름돈(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12907) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Change.java)
 - [불량 사용자(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/64064) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BadUser.java)
+- [저울(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42886) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
+- [셔틀버스(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/17678) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/ShuttleBus.java)
 
 ### Level 4
 - [징검다리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/43236) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/SteppingStone.java)

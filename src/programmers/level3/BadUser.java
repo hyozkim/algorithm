@@ -2,8 +2,11 @@ package programmers.level3;
 
 import java.util.*;
 
-class Solution {
+class BadUser {
     private static boolean check(String a, String b) {
+        if( a.length() != b.length() )
+            return false;
+
         char[] char_a = a.toCharArray();
         char[] char_b = b.toCharArray();
 
@@ -18,56 +21,29 @@ class Solution {
     }
 
     static Set<ArrayList<String>> answer = new HashSet<>();
-    private static void dfs(int n, int m, String[] user_id, String[] banned_id, boolean[] visit_u, boolean[] visit_b, ArrayList<String> arrList) {
-        if( arrList.size() >= banned_id.length ) { // dfs-백트래킹
-            Collections.sort(arrList);
-            answer.add(arrList);
+    private static void dfs(String[] user_id, String[] banned_id, boolean[] visit_u, ArrayList<String> list, int cnt) {
+        if( cnt >= banned_id.length ) { // dfs-백트래킹
+            Collections.sort(list);
+            answer.add(list);
             return;
         }
 
-        for (int i = 0; i < n; i++) {
-            if( !visit_u[i] ) {
-                for (int j = 0; j < m; j++) {
-                    if( user_id[i].length() != banned_id[j].length() )
-                        continue;
+        for (int i = 0; i < user_id.length; i++) {
 
-                    if (!visit_b[j] && check(user_id[i], banned_id[j])) {
-                        visit_u[i] = true;
-                        visit_b[j] = true;
-                        arrList.add(user_id[i]);
-                        dfs(n, m, user_id, banned_id, visit_u, visit_b, arrList);
-                        arrList.remove(user_id[i]);
-                        visit_u[i] = false;
-                        visit_b[j] = false;
-                    }
-                }
+            if( !visit_u[i] && check(user_id[i], banned_id[cnt]) ) {
+                visit_u[i] = true;
+                list.add(user_id[i]);
+                dfs(user_id, banned_id, visit_u, list, cnt+1);
+                list.remove(user_id[i]);
+                visit_u[i] = false;
             }
         }
     }
 
     public static int solution(String[] user_id, String[] banned_id) {
-        int n = user_id.length; int m = banned_id.length;
-
-        boolean[] visit_u = new boolean[n];
-        boolean[] visit_b = new boolean[m];
-        ArrayList<String> arrList = new ArrayList<String>();
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if( user_id[i].length() != banned_id[j].length() )
-                    break;
-
-                if( !visit_u[i] && !visit_b[j] && check(user_id[i], banned_id[j]) ) {
-                    visit_u[i] = true;
-                    visit_b[j] = true;
-                    arrList.add(user_id[i]);
-                    dfs(n,m,user_id, banned_id, visit_u, visit_b, arrList);
-                    arrList.remove(user_id[i]);
-                    visit_u[i] = false;
-                    visit_b[j] = false;
-                }
-            }
-        }
+        boolean[] visit_u = new boolean[user_id.length];
+        ArrayList<String> list = new ArrayList<>();
+        dfs(user_id, banned_id, visit_u, list, 0);
 
         return answer.size();
     }
@@ -77,6 +53,7 @@ class Solution {
         //String[] user_id = {"frodo", "fradi", "crodo", "abc123", "frodoc"}; String[] banned_id = {"*rodo", "*rodo", "******"};
         String[] user_id = {"frodo", "fradi", "crodo", "abc123", "frodoc"}; String[] banned_id = {"fr*d*", "*rodo", "******", "******"};
 
+        //System.out.println(banned_id[3].replace("*", "[\\w\\d]"));
         System.out.println(solution(user_id,banned_id));
     }
 
