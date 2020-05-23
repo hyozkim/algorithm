@@ -22,7 +22,6 @@
 ### Level 3
 - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Budget.java)
 - [입국심사(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43238) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Immigration.java)
-- [정수 삼각형(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
 - [등굣길(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42898) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayToSchool.java)
 - [디스크 컨트롤러(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42627) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/DiskController.java)
 - [이중우선순위큐(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42628) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/PriorityQueue2.java)
@@ -53,6 +52,10 @@
 - [불량 사용자(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/64064) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BadUser.java)
 - [저울(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42886) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Scale.java)
 - [셔틀버스(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/17678) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/ShuttleBus.java)
+- [정수 삼각형(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
+- [줄 서는 방법(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12936) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayLineUp.java)
+- [기둥과 보 설치(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/60061) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BuildColumnNRoad.java)
+
 
 ### Level 4
 - [징검다리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/43236) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/SteppingStone.java)
