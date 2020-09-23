@@ -2,6 +2,7 @@ package programmers.level4;
 
 import java.util.Arrays;
 
+// 징검 다리
 public class SteppingStone {
     /***
      * check 함수
@@ -11,8 +12,8 @@ public class SteppingStone {
      * @param d - 다리 끝지점
      * @return
      *
-     * true (제거되는 돌 갯수가 기준보다 많다) -> 두 돌다리 사이 거리 기준(mid)를 줄여야 된다. -> r = mid - 1
-     * false(제거되는 돌 갯수가 기준보다 적다) -> 두 돌다리 사이 거리 기준(mid)을 늘려야 한다. -> l = mid + 1
+     * true  - (제거되는 돌 갯수가 기준보다 많다) -> 두 돌다리 사이 거리 기준(mid)를 줄여야 된다. -> r = mid - 1
+     * false - (제거되는 돌 갯수가 기준보다 적다) -> 두 돌다리 사이 거리 기준(mid)을 늘려야 한다. -> l = mid + 1
      */
     private static boolean check(int[] a, int n, int mid, int d) {
         int cnt = 0;
@@ -20,14 +21,16 @@ public class SteppingStone {
 
         for (int i = 0; i < a.length; i++) {
             int gap =  i == a.length ? d - last : a[i] - last;
-            if( gap < mid ) { // gap이 기준(mid) 최소거리가 작은 경우 제거 대상.
+            if( gap < mid ) { // TODO gap 거리의 최솟값 (mid) 보다 작다면
                 cnt ++;
             } else {
                 last = a[i];
             }
         }
 
-        return cnt <= n ? false : true;
+        // TODO cnt(갯수)가 많으면 mid 크기를 줄여야 함
+        // TODO cnt(갯수)가 적으면 mid 크기를 늘려야 함
+        return cnt <= n ? true : false;
     }
 
     public static int solution(int distance, int[] rocks, int n) {
@@ -40,10 +43,10 @@ public class SteppingStone {
             int mid = (l+r)/2;
 
             if( check(rocks,n,mid,distance) ) {
-                r = mid - 1;
-            } else {
                 l = mid + 1;
                 answer = mid;
+            } else {
+                r = mid - 1;
             }
         }
 

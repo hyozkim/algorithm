@@ -3,8 +3,10 @@ package programmers.level3;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-// 카카오 문제(구현) - 기둥과 보 설치
-// Programmers Lv.3
+/***
+ * 기둥과 보 설치 - Lv3
+ * 2020 카카오 블라인드 테스트
+ */
 public class BuildColumnAndRoad {
     private static final int COLUMN = 0;
     private static final int BOARD = 1;
