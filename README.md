@@ -55,6 +55,18 @@
 - [정수 삼각형(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43105) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/IntegerTriangle.java)
 - [줄 서는 방법(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12936) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayLineUp.java)
 - [기둥과 보 설치(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/60061) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BuildColumnNRoad.java)
+- [기지국 설치(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12979) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BuildBaseStation.java)
+- [경주로 건설(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/67259) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/ConstructRoad.java)
+- [징검 다리 건너기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/64062) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/CrossBridge.java)
+- [영어 끝말 잇기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12981) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/EnglishWordChain.java)
+- [보석 쇼핑(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/67258) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/JewelShopping.java)
+- [자물쇠와 열쇠(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/60059) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/KeyAndLock.java)
+- [매칭 점수(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42893) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/MatchingScore.java)
+- [숫자 게임(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12987) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/NumberGame.java)
+- [방문 길이(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49994) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/VisitLength.java)
+
+
+
 
 
 ### Level 4
@@ -63,6 +75,9 @@
 
 백준
 ---
+- Stack 
+    - [쇠막대기](https://www.acmicpc.net/problem/10799) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/stack/Q10799.java)
+    
 - DP1
     - [1로 만들기](https://www.acmicpc.net/problem/1463) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q1463.java)
     - [2xn 타일링](https://www.acmicpc.net/problem/11726) - [code](https://github.com/hyozkim/algorithm/blob/master/src/backjoon/dp/Q11726.java)
