@@ -4,6 +4,12 @@
 ### Level 1
 - [체육복(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/42862) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/GymClothes.java)
 - [크레인 인형뽑기 게임(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/64061) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/PickDoll.java)
+- [다트 게임(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/17682) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/DartGame.java)
+- [실패율(Lv.1)](https://www.welcomekakao.com/learn/courses/30/lessons/42889) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/FailPercentage.java)
+- [오픈 채팅방(Lv.1)](https://www.welcomekakao.com/learn/courses/30/lessons/42888) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/OpenChatRoom.java)
+- [키패드 누르기(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/67256) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/PressKey.java)
+- [시저 암호(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/12926) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/SissorPassword.java)
+- [이상한 문자 만들기(Lv.1)](https://programmers.co.kr/learn/courses/30/lessons/12930) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/StrangeString.java)
 
 ### Level 2
 - [큰 수 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42883) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakeGreater.java)
@@ -14,12 +20,24 @@
 - [폰켓몬(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/1845) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/PhoneKetMon.java)
 - [짝지어 제거하기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12973) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/RemovePairString.java)
 - [프렌즈4블록(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17679) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/Friends4Block.java)
-- [[3차]방금그곡(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17683) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/ThatSong.java)
+- [[3차] 방금 그곡(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/17683) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/ThatSong.java)
 - [행렬의 곱셈(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12949) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MatrixMultiplication.java)
 - [JadenCase 문자열 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12951) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JadenCase.java)
 - [땅따먹기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12913) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/TakeTerritory.java)
 - [올바른 괄호(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12909) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/CorrectBracket.java)
 - [튜플(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/64065) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/Tuple.java)
+- [후보키(Lv.2)](https://www.welcomekakao.com/learn/courses/30/lessons/42890) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/CandidateKey.java)
+- [수식 최대화(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/67257) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/CalculusMaximum.java)
+- [피보나치 수(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12945) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/FibonacciNumber.java)
+- [소수 찾기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42839) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/FindPrimeNumber.java)
+- [점프와 순간이동(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12980) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/JumpAndTeleport.java)
+- [최솟값 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12941) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakeMinimumSum.java)
+- [소수 만들기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12977) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakePrimeNumber.java)
+- [N개의 최소공배수(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/12953) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/NCommonMultiple.java)
+- [프린터(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/42587) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/Printer.java)
+- [멀쩡한 사각형(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/62048) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/RegularRectangle.java)
+- [문자열 압축(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/60057) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/StringZip.java)
+- [단체사진 찍기(Lv.2)](https://programmers.co.kr/learn/courses/30/lessons/1835) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/TakePictureTogether.java)
 
 ### Level 3
 - [예산(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43237) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Budget.java)
@@ -38,7 +56,7 @@
 - [하노이탑(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12946) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/HanoiTop.java)
 - [브라이언의 고민(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/1830) - code
 - [멀리뛰기(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12914) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/LongJump.java)
-- [순위(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49191) - code
+- [순위(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49191) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/Rank.java)
 - [등굣길(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42898) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/WayToSchool.java)
 - [최고의 집합(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12938) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/BestSet.java)
 - [여행경로(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/43164) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/TravelRoute.java)
@@ -66,7 +84,18 @@
 - [매칭 점수(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/42893) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/MatchingScore.java)
 - [숫자 게임(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12987) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/NumberGame.java)
 - [방문 길이(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/49994) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/VisitLength.java)
+- [N-Queen(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/12952) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/NQueen.java)
+- [보행자 천국(Lv.3)](https://programmers.co.kr/learn/courses/30/lessons/1832) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level3/SafeRoad.java)
 
 ### Level 4
 - [징검다리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/43236) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/SteppingStone.java)
 - [선입선출 스케줄링(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/12920) - code
+- [호텔 방 배정(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/64063) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/HotelRoom.java)
+- [사칙 연산(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/1843) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/FourRulesCalculation.java)
+- [스티커 모으기(2)(Lv.4)](https://programmers.co.kr/learn/courses/18/lessons/1881) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/CollecSticker2.java)
+- [게임 맵 최단거리(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/1844) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/GameShortDistance.java)
+- [지형 편집(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/12984) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/GeographyModification.java)
+- [지형 이동(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/62050) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/MoveLand.java)
+- [최적의 행렬 곱셈(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/12942) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/OptimalMatrixMultiplication.java)
+- [단어 퍼즐(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/12983) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/PuzzleWord.java)
+- [도둑질(Lv.4)](https://programmers.co.kr/learn/courses/30/lessons/42897) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level4/StealStuff.java)
