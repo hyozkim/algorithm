@@ -1,4 +1,4 @@
-package baekjoon.dp;
+package baekjoon.dp01.sol02;
 
 // 오르막 수 ( Q11057 )
 // Backjoon - Dp

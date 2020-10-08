@@ -1,4 +1,4 @@
-package baekjoon.dp;
+package baekjoon.dp01.sol01;
 
 // 카드 구매하기 ( Q11052 )
 // Backjoon - Dp

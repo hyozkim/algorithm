@@ -1,4 +1,4 @@
-package baekjoon.dp;
+package baekjoon.dp01.sol01;
 
 // 1,2,3 더하기 ( Q9095 )
 // Backjoon - Dp
