@@ -1,10 +1,10 @@
 백준
 ---
 ### [완전탐색] 그냥 다해보기
-- [리모컨](https://www.acmicpc.net/problem/1107) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1107.java)
-- [수들의 합](https://www.acmicpc.net/problem/2003) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q2003.java)
-- [감소하는 수](https://www.acmicpc.net/problem/1038) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1038.java)
-- [사탕 게임](https://www.acmicpc.net/problem/3085) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q3085.java)
+- [리모컨](https://www.acmicpc.net/problem/1107) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bruteforce/Q1107.java)
+- [수들의 합](https://www.acmicpc.net/problem/2003) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bruteforce/Q2003.java)
+- [감소하는 수](https://www.acmicpc.net/problem/1038) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bruteforce/Q1038.java)
+- [사탕 게임](https://www.acmicpc.net/problem/3085) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bruteforce/Q3085.java)
 
 ### [완전탐색] 비트마스크
 - [부분 수열의 합](https://www.acmicpc.net/problem/1182) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bitmask/Q1182.java)
@@ -69,7 +69,10 @@
 - [놀이 공원](https://www.acmicpc.net/problem/1561) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/binarysearch/Q1561.java)
 
 ### DP
-- [가장 긴 팰린드롬](https://www.acmicpc.net/problem/13275) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp/Q13275.java)
+- [가장 긴 팰린드롬 부분 문자열](https://www.acmicpc.net/problem/13275) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp/Q13275.java)
+- [평범한 배낭](https://www.acmicpc.net/problem/12865) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp/Q12865.java)
+- [1+2+3 더하기 4](https://www.acmicpc.net/problem/15989) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp/Q15989.java)
+- [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp/Q17070.java)
 
 ### Stack 
 - [쇠막대기](https://www.acmicpc.net/problem/10799) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/stack/Q10799.java)
