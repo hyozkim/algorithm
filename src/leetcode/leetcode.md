@@ -11,6 +11,15 @@ leetcode
 - [Remove Element](https://leetcode.com/problems/remove-element/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/easy/leet_27.java)
 - [Implement strStr](https://leetcode.com/problems/implement-strstr/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/easy/leet_28.java)
 - [Search Insert](https://leetcode.com/problems/search-insert-position/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/easy/leet_35.java)
+- [Count And Say](https://leetcode.com/problems/count-and-say/) - code
+- [Add Binary](https://leetcode.com/problems/add-binary/) - code
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/easy/leet_190.java)
+- [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/easy/leet_804.java)
+- [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/easy/leet_832.java)
+- [Destination City](https://leetcode.com/problems/destination-city/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/easy/leet_1436.java)
     
 ### Medium
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/medium/leet_2.java)
+- [Permutations](https://leetcode.com/problems/permutations/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/medium/leet_46.java)
+- [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) - [code](https://github.com/hyozkim/algorithm/blob/master/src/leetcode/medium/leet_310.java)
+
