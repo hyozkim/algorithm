@@ -1,15 +1,28 @@
 백준
 ---
-### [완전탐색] Queue 사용하기
+### [완전탐색] 그냥 다해보기
+- [리모컨](https://www.acmicpc.net/problem/1107) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1107.java)
+- [수들의 합](https://www.acmicpc.net/problem/2003) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q2003.java)
+- [감소하는 수](https://www.acmicpc.net/problem/1038) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1038.java)
+- [사탕 게임](https://www.acmicpc.net/problem/3085) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q3085.java)
+
+### [완전탐색] 비트마스크
+- [부분 수열의 합](https://www.acmicpc.net/problem/1182) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bitmask/Q1182.java)
+- [부분 집합의 합2](https://www.acmicpc.net/problem/1208) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bitmask/Q1208.java)
+
+### [완전탐색] Queue 사용하기 (bfs)
 - [숨바꼭질](https://www.acmicpc.net/problem/1697) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1697.java)
 - [소수경로](https://www.acmicpc.net/problem/1963) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1963.java)
 - [DSLR](https://www.acmicpc.net/problem/9019) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q9019.java)
+- [단지 내 전단지 붙이기](https://www.acmicpc.net/problem/2667) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q2667.java)
 
-### [완전탐색] 재귀호출 사용하기
-- [1,2,3더하기](https://www.acmicpc.net/problem/9095) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q9095.java)
+### [완전탐색] 재귀호출 사용하기 (dfs)
+- [1,2,3 더하기](https://www.acmicpc.net/problem/9095) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q9095.java)
 - [알파벳](https://www.acmicpc.net/problem/1987) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q1987.java)
 - [암호만들기](https://www.acmicpc.net/problem/1759) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q1759.java)
 - [NQueen](https://www.acmicpc.net/problem/9663) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q9663.java)
+- [괄호 추가하기](https://www.acmicpc.net/problem/16637) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q16637.java)
+- [괄호 추가하기2](https://www.acmicpc.net/problem/16638) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q16638.java)
 
 ### DP1 문제풀이 1
 - [1로 만들기](https://www.acmicpc.net/problem/1463) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp01/sol01/Q1463.java)
@@ -58,17 +71,20 @@
 ### DP
 - [가장 긴 팰린드롬](https://www.acmicpc.net/problem/13275) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp/Q13275.java)
 
-### 스택 
+### Stack 
 - [쇠막대기](https://www.acmicpc.net/problem/10799) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/stack/Q10799.java)
 - [스카이라인 쉬운거](https://www.acmicpc.net/problem/1863) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/stack/Q1863.java)
 
-### 그리디
+### Greedy
 - [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q1541.java)
 - [ATM](https://www.acmicpc.net/problem/11399) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q11399.java)
 - [30](https://www.acmicpc.net/problem/10610) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q10610.java)
 - [수 묶기](https://www.acmicpc.net/problem/1744) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q1744.java)
 - [병든 나이트](https://www.acmicpc.net/problem/1783) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q1783.java)
-- [대회or인턴](https://www.acmicpc.net/problem/2875) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q2875.java)
+- [대회 or 인턴](https://www.acmicpc.net/problem/2875) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q2875.java)
+- [보석 도둑](https://www.acmicpc.net/problem/1202) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q1202.java)
+- [동전0](https://www.acmicpc.net/problem/11047) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q11047.java)
 
-### MST(최소 신장 트리)
-- [다리 만들기2](https://www.acmicpc.net/problem/17472) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/greedy/Q17472.java)
+### MST(Minimum Spanning Tree)
+- [다리 만들기2](https://www.acmicpc.net/problem/17472) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/mst/Q17472.java)
+- [공항](https://www.acmicpc.net/problem/10775) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/mst/Q10775.java)

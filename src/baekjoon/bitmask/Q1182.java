@@ -1,4 +1,4 @@
-package baekjoon.bfsdfs;
+package baekjoon.bitmask;
 
 import java.io.BufferedReader;
 import java.io.IOException;

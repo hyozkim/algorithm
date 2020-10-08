@@ -1,13 +1,14 @@
-package baekjoon.bfsdfs;
+package baekjoon.dfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 /***
- * 괄호 추가하기
+ * 괄호 추가하기 2
+ * 완전탐색 - (dfs)
  */
-public class Q16637 {
+public class Q16638 {
     static int n ;
     static char[] expression ;
     static int max_ans = 0;
@@ -31,7 +32,7 @@ public class Q16637 {
         }
         char op = (index == 0) ? '+' : expression[index-1];
 
-        if( index+2 < n ) {
+        if( (index+2) < n ) {
             // 괄호 묶는다
             int bracket = calc(expression[index]-'0', expression[index+2]-'0', expression[index+1]);
             dfs(index+4, calc(sum, bracket, op));
@@ -42,7 +43,6 @@ public class Q16637 {
 
     private static int calc(int num1, int num2, char op) {
         int ret = 0;
-
         if( op == '-' ) {
             ret = num1 - num2;
         } else if( op == '*' ) {
@@ -50,7 +50,6 @@ public class Q16637 {
         } else if( op == '+' ) {
             ret = num1 + num2;
         }
-
         return ret;
     }
 
