@@ -69,6 +69,12 @@
 - [파일합치기](https://www.acmicpc.net/problem/11066) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp02/sol02/Q11066.java)
 - [행렬의 곱셉순서](https://www.acmicpc.net/problem/11049) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp02/sol02/Q11049.java)
 
+### DP2 문제풀이 3
+- [구간 나누기](https://www.acmicpc.net/problem/2228) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp02/sol03/Q2228.java)
+- [자두나무](https://www.acmicpc.net/problem/2240) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp02/sol03/Q2240.java)
+- [고층빌딩](https://www.acmicpc.net/problem/1328) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp02/sol03/Q1328.java)
+- [타일코드](https://www.acmicpc.net/problem/1720) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dp02/sol03/Q1720.java)
+
 ### 이분탐색 part1
 - [랜선 자르기](https://www.acmicpc.net/problem/1654) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/binarysearch/Q1654.java)
 - [나무 자르기](https://www.acmicpc.net/problem/2805) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/binarysearch/Q2805.java)
