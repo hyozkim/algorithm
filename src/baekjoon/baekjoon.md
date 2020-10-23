@@ -15,6 +15,7 @@
 - [소수경로](https://www.acmicpc.net/problem/1963) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1963.java)
 - [DSLR](https://www.acmicpc.net/problem/9019) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q9019.java)
 - [단지 내 전단지 붙이기](https://www.acmicpc.net/problem/2667) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q2667.java)
+- [퍼즐](https://www.acmicpc.net/problem/1525) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/bfs/Q1525.java)
 
 ### [완전탐색] 재귀호출 사용하기 (dfs)
 - [1,2,3 더하기](https://www.acmicpc.net/problem/9095) - [code](https://github.com/hyozkim/algorithm/blob/master/src/baekjoon/dfs/Q9095.java)
