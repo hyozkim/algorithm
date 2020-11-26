@@ -1,4 +1,4 @@
-package swsamsung.d4;
+package swea.d4;
 
 import java.io.*;
 import java.util.*;
