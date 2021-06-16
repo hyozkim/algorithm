@@ -10,7 +10,8 @@
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/PressKey.java)
 - [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/SissorPassword.java)
 - [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/StrangeString.java)
-
+- [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level1/RecommendedID.java)
+ 
 ### Level 2
 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/MakeGreater.java)
 - [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) - [code](https://github.com/hyozkim/algorithm/blob/master/src/programmers/level2/LifeBoat.java)
